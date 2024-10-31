@@ -72,16 +72,7 @@ Feel free to reach out with any questions or to begin your project. You can cont
 - **Phone**: 9490627247
 - **Social Media**: Follow us on [Instagram](#), [Facebook](#), and [LinkedIn](#) for updates and portfolio showcases.
 
-## FAQs
 
-- **How long does editing take?**
-  Our standard turnaround time is 3-7 business days, depending on the project’s complexity.
-
-- **Can I request custom services?**
-  Absolutely! We are open to custom requests—just let us know what you need.
-
-- **Do you offer refunds?**
-  Refunds are considered on a case-by-case basis if you are unsatisfied after revisions.
 
 Thank you for choosing **Moonlit Works**! We look forward to creating something amazing together.
 
