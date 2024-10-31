@@ -1,0 +1,45 @@
+[
+ 
+  {
+    "name": "Genie FInance",
+    "desc": "Genie Finance is an finance page in instagram managed by Mr.Siva Marella",
+    "image": "genie",
+    "category": "mern",
+    "links": {
+      "view": "https://www.instagram.com/geniee_finance/",
+      "code": "https://www.instagram.com/reel/DBvy1HwyANP/"
+    }
+  },
+  {
+    "name": "Bharath Estore",
+    "desc": "Bharath Estore is an instagram platform promoting small hold sellers",
+
+    "image": "bharath",
+    "category": "lamp",
+    "links": {
+      "view": "https://www.instagram.com/bharatestore_buy_indian/",
+      "code": "https://www.instagram.com/reel/DBmL1xsyoxx/"
+    }
+  },
+  {
+    "name": "Village Vihari",
+    "desc": "Village Vihari is a travel and adventure youtube channel with 1.5M+ subs.",
+    "image": "villagevihari",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.youtube.com/@VillageViharichannel",
+      "code": "https://www.youtube.com/watch?v=B2ex5wI936g/"
+    }
+  },
+  {
+    "name": "Tfi Bagundali",
+    "desc": "Tfi Bagundali is an instagram movie page.",
+    "image": "tfi",
+    "category": "mern",
+    "links": {
+      "view": "https://www.instagram.com/tfi_bagundalii/",
+       "code": "https://www.instagram.com/reel/DBqpLPpS3hT/"
+    }
+  }
+ 
+]
