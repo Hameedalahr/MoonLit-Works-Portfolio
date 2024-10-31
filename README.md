@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
-<a href="https://jigarsable.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://moonlitworks.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
@@ -9,12 +9,6 @@ Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=css)&nbsp;
 [![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/jigar-sable/Portfolio-Website/search?l=javascript)
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
-
-### Extras : 
-Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
-
-
-
 
 Here’s a README file template for Moonlit Works’ website:
 
@@ -68,9 +62,17 @@ To start working with **Moonlit Works**, simply follow these steps:
 
 Feel free to reach out with any questions or to begin your project. You can contact us at:
 
-- **Email**: moonlitworks@2024.com
+- **Email**: moonlitworks2024@gmail.com
 - **Phone**: 9490627247
 - **Social Media**: Follow us on [Instagram](#), [Facebook](#), and [LinkedIn](#) for updates and portfolio showcases.
+
+
+
+Thank you for choosing **Moonlit Works**! We look forward to creating something amazing together.
+
+---
+
+
 
 
 
